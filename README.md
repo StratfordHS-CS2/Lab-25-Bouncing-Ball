@@ -1,4 +1,4 @@
-# Lab 25 - Bouncing Ball
+# Lab 35 - Bouncing Ball
 
 You are going to make a ball travel around the screen and bounce off of any edges it encounters.
 
